@@ -25,10 +25,6 @@ public class HashTagTokenizer {
 	{
 		for (int i = 0; i < dictionary.length; i++)
 		{
-			if (i == 1312)
-			{
-
-			}
 			if (dictionary[i].equals(word))
 			{
 				return true;
